@@ -1,2 +1,2 @@
-# Academic
+# Bilkent
 Freshman / Bilkent University
